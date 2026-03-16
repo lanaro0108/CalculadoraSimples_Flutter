@@ -69,7 +69,7 @@ lib
 1. Clone o repositório
 
 ```
-git clone https://github.com/lanaro0108/calculadora-flutter.git
+git clone https://github.com/lanaro0108/CalculadoraSimples_Flutter
 ```
 
 2. Entre na pasta do projeto
